@@ -95,9 +95,6 @@
 	<npc centerx="978" centery="1056" centerz="7" radius="1">
 		<npc name="Esrik" x="0" y="0" z="7" spawntime="60" />
 	</npc>
-	<npc centerx="941" centery="1059" centerz="7" radius="1">
-		<npc name="Grizzly Adams" x="0" y="0" z="7" spawntime="1" />
-	</npc>
 	<npc centerx="949" centery="1062" centerz="7" radius="1">
 		<npc name="Zuma Magehide" x="0" y="0" z="7" spawntime="3" />
 	</npc>
